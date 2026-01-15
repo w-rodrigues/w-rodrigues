@@ -12,10 +12,7 @@ Sou Will Rodrigues, de São Leopoldo (RS). Iniciei minha formação em Design Gr
 
 <div align="center">
   <table style="border-collapse: collapse;">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" />
-        <br><b>Figma</b><br><small>UI/UX Design</small>
+    <tr>  
       <td align="center" style="padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
         <br><b>HTML5</b><br><small>Front-End</small>
@@ -24,13 +21,17 @@ Sou Will Rodrigues, de São Leopoldo (RS). Iniciei minha formação em Design Gr
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
         <br><b>CSS3</b><br><small>Estilização</small>
       </td>
+        <td align="center" style="padding: 10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" />
+        <br><b>Figma</b><br><small>UI/UX Design</small>
+      </td>
       <td align="center" style="padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
-        <br><b>JavaScript</b><br><small>Interatividade</small>
+        <br><b>JavaScript</b><br><small>Learning</small>
       </td>
         <td align="center" style="padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" />
-        <br><b>Python/b><br><small>Interatividade</small>
+        <br><b>Python<br><small>Learning</small>
       </td>
     </tr>
   </table>
