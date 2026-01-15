@@ -29,7 +29,7 @@ Sou Will Rodrigues, de São Leopoldo (RS). Iniciei minha formação em Design Gr
         <br><b>JavaScript</b><br><small>Interatividade</small>
       </td>
         <td align="center" style="padding: 10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" height="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" />
         <br><b>Python/b><br><small>Interatividade</small>
       </td>
     </tr>
