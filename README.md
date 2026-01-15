@@ -1,8 +1,8 @@
 <!-- Banner Personalizado -->
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQEf4ihEQeUlYg/profile-displaybackgroundimage-shrink_350_1400/B4DZuO6KYuJkAY-/0/1767629171764?e=1769040000&v=beta&t=dkfGVjtSbaT353DFiX19VbloCTm8cl74EfOB2gDRMvk" width="100%" alt="Bem-vindo ao meu perfil!" style="border: none;">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFrknh6-OZv8w/profile-displaybackgroundimage-shrink_350_1400/B4DZu_AvluHQAY-/0/1768436203663?e=1770249600&v=beta&t=0CMRYLdHZsHLcup0EjxZJTB1oa97jgpcyxwtX9OfC-I" width="100%" alt="Bem-vindo ao meu perfil!" style="border: none;">
 
 # 🫰 Olá, Eu sou o Will Rodrigues  
-### 👨‍💻 UX/UI Designer & Front-End Developer
+### 👨‍💻Student: Front-end Developer.
 
 Sou Will Rodrigues, de São Leopoldo (RS). Iniciei minha formação em Design Gráfico com foco em UI/UX Design e atualmente curso Análise e Desenvolvimento de Sistemas na Uninter. Minha experiência como designer de interiores, ilustrador e tatuador contribuiu para o desenvolvimento de um olhar atento à estética, aos detalhes e à experiência do usuário. Unindo design e desenvolvimento web, busco criar interfaces intuitivas, acessíveis e visualmente atraentes, aliando estética, funcionalidade e impacto real.
 
